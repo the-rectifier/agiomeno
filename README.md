@@ -2,7 +2,7 @@
 
 ![](logo.jpg)
 
-Ελα τωρε, δεν χρειαζεται να πω κατι, ξες τωρα, _ψηλοκαταλαβες_
+Rust, but in maths letters. I dont think i need to say or explain anything
 
 Κανε οτι θες, ΑΛΛΑ να θυμασαι οτι ΔΕΝ ξερω ραστ, οποτε ρωτα τον μητσοτακη για βοηθεια και οχι εμενα
 
@@ -16,6 +16,13 @@ skouriasmeno::skouriasmeno! {
     }
 }
 ```
+
+ε καλο ε;
+
+## γιατι ομως;
+
+- αφου το εχουν κανει και οι αλλοι, τοτε γτ οχι;
+- γυρος
 
 ## αυτη η μλκια αλλα σε αλλες γλωσσες:
 
@@ -46,5 +53,3 @@ skouriasmeno::skouriasmeno! {
 - Corsican: [rughjina](https://github.com/aldebaranzbradaradjan/rughjina)
 - Indonesian: [karat](https://github.com/annurdien/karat)
 - Lithuanian: [rūdys](https://github.com/TruncatedDinosour/rudys)
-
-ε καλο ε;
