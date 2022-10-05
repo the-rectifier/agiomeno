@@ -7,7 +7,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "Σφα" => "Err",
         "Καλα" => "Ok",
         "Συμβολοσειρα" => "String",
-        "Dictionnaire" => "HashMap",
+        "Λεξικο" => "HashMap",
         "Προκαθορισμενο" => "Default",
         "Σφαλμα" => "Error",
         "Επιλογη" => "Option",
