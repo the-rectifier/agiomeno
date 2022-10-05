@@ -24,7 +24,7 @@ skouriasmeno::skouriasmeno! {
 - αφου το εχουν κανει και οι αλλοι, τοτε γτ οχι;
 - γυρος
 
-## αυτη η μλκια αλλα σε αλλες γλωσσες:
+## αυτη η μλ*ια αλλα σε αλλες γλωσσες:
 
 - Dutch: [roest](https://github.com/jeroenhd/roest)
 - German: [rost](https://github.com/michidk/rost)
