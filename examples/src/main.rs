@@ -1,6 +1,6 @@
-skouriasmeno::skouriasmeno! {
-    εξωτερικο κυβωτιο skouriasmeno;
-    
+agiomeno::agioma! {
+    που_πώξω κάσια agiomeno;
+
     μεθοδος κυριο() {
         τυποσεγρμ!("Ε καλο ε;");
     }
