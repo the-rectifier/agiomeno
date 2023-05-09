@@ -1,31 +1,7 @@
 # skouriasmeno
 
-![](logo.jpg)
-
-Rust, but in maths letters. I dont think i need to say or explain anything
-
-Κανε οτι θες, ΑΛΛΑ να θυμασαι οτι ΔΕΝ ξερω ραστ, οποτε ρωτα τον μητσοτακη για βοηθεια και οχι εμενα
-
-Αν θες ενα τουτοριαλ:
-```
-skouriasmeno::skouriasmeno! {
-    εξωτερικο κυβωτιο skouriasmeno;
-    
-    μεθοδος κυριο() {
-        τυποσεγρμ!("Ε καλο ε;");
-    }
-}
-```
-
-ε καλο ε;
-
-## γιατι ομως;
-
-- αφου το εχουν κανει και οι αλλοι, τοτε γτ οχι;
-- γυρος
-
-## αυτη η μλ*ια αλλα σε αλλες γλωσσες:
-
+## τούντο ππουσλ*κκη σε άλλες γλώσσες:
+- Greek: [skouriasmeno](https://github.com/devlocalhost/skouriasmeno)
 - Dutch: [roest](https://github.com/jeroenhd/roest)
 - German: [rost](https://github.com/michidk/rost)
 - Polish: [rdza](https://github.com/phaux/rdza)
